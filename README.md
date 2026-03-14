@@ -4,7 +4,6 @@
 📫 Email me at: naveenmerugu959@gmail.com for collaboration, project opportunities, or any inquiries. 😊😊
 
 - 🔭 **I’m currently working on:** A Smart Bus Ticket Booking System - a web-based platform for paperless bus ticket booking using QR/e-tickets, with passenger and conductor modules.
-- 🌱 **I’m currently learning:** Enter your tech here
 - 👯 **I’m looking to collaborate on:** Open-source Web Development Projects, especially those built with JavaScript, Node.js, Express.js, and MongoDB
 - 💬 **Ask me about:** Java, JavaScript, HTML, CSS, Node.js, Express.js, MongoDB, and Web Development Projects.
 - 📫 **How to reach me:** naveenmerugu959@gmail.com
